@@ -1,5 +1,11 @@
 name: "İlayda Özcan"
 navbar:
+.navbar-inverse {
+  background-color: #222;
+}
+.navbar-inverse .navbar-brand {
+  color: #9d9d9d;
+}
   title: "İlayda Özcan"
   left:
     - text: "Home"
