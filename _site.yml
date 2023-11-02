@@ -1,11 +1,13 @@
-name: "MyLabJournal"
+name: "İlayda Özcan"
 navbar:
-  title: "MyLabJournal"
+  title: "İlayda Özcan"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
+    - text: "About Me"
       href: Journal.html
-    - text: "Links"
+    - text: "Projects"
       href: Links.html
 output_dir: "docs"
+
+
