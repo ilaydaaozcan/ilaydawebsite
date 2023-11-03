@@ -4,9 +4,5 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
-      href: Journal.html
-    - text: "Projects"
-      href: Links.html
 output_dir: "docs"
 
