@@ -1,0 +1,10 @@
+name: ilaydawebsitee
+title:
+username: ilaydawebsite
+account: ilaydawebsite
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10408591
+bundleId: 7886256
+url: https://ilaydawebsite.shinyapps.io/ilaydawebsitee/
+version: 1

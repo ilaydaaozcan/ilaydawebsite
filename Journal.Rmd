@@ -4,16 +4,11 @@ output:
 ---
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
-```
-
-# University
+# Education
 
 Middle East Technical University B.S Statistics 2019-ongoing
 
-# Linkedin
 
 [Linkedin](https://www.linkedin.com/in/ilaydaozcan19?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
