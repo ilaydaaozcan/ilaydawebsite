@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-output:
+output: html_document
 ---
 
 
