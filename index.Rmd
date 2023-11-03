@@ -1,7 +1,22 @@
 ---
-title: "Welcome"
-output: html_document
+title: "İlayda Özcan"
+output:
+ html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+    theme: 
+    #code_folding: hide
 ---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE) 
+
+```
+
+        
+# Welocme
 
 I am İlayda Özcan.
 In this website I am going to share my projects and analysis that I made in school as homework or practice.
@@ -10,14 +25,12 @@ In this website I am going to share my projects and analysis that I made in scho
 
 # About Me
 
-Education
+## Education
 
 Middle East Technical University B.S Statistics 2019-ongoing
 
 
 [Linkedin](https://www.linkedin.com/in/ilaydaozcan19?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
- # Projects
 
 
 
